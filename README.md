@@ -1,7 +1,8 @@
 # dk_municipalities
+## Background
 For a project, I needed to map municipalities in Denmark to their respective regions. This turned out to be a surprisingly difficult information to find a in a way that I could easily query and grab in a machine readable form - to use in my code. 
 
-So, here is a CSV with the municipalities in Danish. Other data formats may show up later. 
+So, here are some files that should help showing this data in 2 different data structures. More datastructures may follow. 
 
 Open to collaborate on this, and respond to requests to add more versions. 
 
