@@ -6,13 +6,13 @@ So, here is a CSV with the municipalities in Danish. Other data formats may show
 Open to collaborate on this, and respond to requests to add more versions. 
 
 ## kommunerne.csv 
-- Municipalities and regions in Danish (i.e. Copenhagen is København)
+- A tall-form CSV
 - Columns are 'Kommune', 'Region'
+- In Danish (i.e., Copenhagen is København, and Regions are in Danish (e.g., Syddanmark instead of South Denmark ))
 - Decode with "ISO-8859-1"
 
 ## kommunerne.json
 - A JSON file 
 - Structureis a simple dictionary where each municipality is a key and its region is its value 
-- Municipality names are in Danish (Copenhagen is København)
-- Values were made ASCII compatible
+- In Danish (i.e., Copenhagen is København, and Regions are in Danish (e.g., Syddanmark instead of South Denmark ))
 - Reading with "UTF-8" decoder should work - let me know if not. 
