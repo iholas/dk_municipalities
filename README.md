@@ -7,3 +7,8 @@ Open to collaborate on this, and respond to requests to add more versions.
 - municipalities and regions in Danish (i.e. Copenhagen is København)
 - columns are 'Kommune', 'Region'
 - decode with "ISO-8859-1"
+
+## kommunerne.json
+- a JSON file 
+- structureis a simple dictionary where each municipality is a key and its region is its value 
+- municipality names are in Danish (Copenhagen is København)
